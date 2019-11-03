@@ -26,5 +26,5 @@ if site == "Amazon":
 else:
     print(">>>>>>>>>  Por favor verifique o endereço disponibilizado!")
 
-# encerra janela
+# encerra a janela
 driver.close()
